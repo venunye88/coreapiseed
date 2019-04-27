@@ -1,0 +1,14 @@
+C:\Projects\coreapiseed\coreapiseed\bin\Debug\netcoreapp2.2\CodeApiSeed.deps.json
+C:\Projects\coreapiseed\coreapiseed\bin\Debug\netcoreapp2.2\CodeApiSeed.runtimeconfig.json
+C:\Projects\coreapiseed\coreapiseed\bin\Debug\netcoreapp2.2\CodeApiSeed.runtimeconfig.dev.json
+C:\Projects\coreapiseed\coreapiseed\bin\Debug\netcoreapp2.2\CodeApiSeed.dll
+C:\Projects\coreapiseed\coreapiseed\bin\Debug\netcoreapp2.2\CodeApiSeed.pdb
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.csprojAssemblyReference.cache
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.csproj.CoreCompileInputs.cache
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.RazorAssemblyInfo.cache
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.RazorAssemblyInfo.cs
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.AssemblyInfoInputs.cache
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.AssemblyInfo.cs
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.RazorTargetAssemblyInfo.cache
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.dll
+C:\Projects\coreapiseed\coreapiseed\obj\Debug\netcoreapp2.2\CodeApiSeed.pdb
